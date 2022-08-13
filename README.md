@@ -4,6 +4,9 @@ Sample text adventure game showing implementation of loops and input buffer clea
 This repository contains all of the source files for this project. 
 
 If you're looking to run the program without looking at source code, feel free to just run download and run the following file. 
-- Sample_Project1/x64/Debug/text-adventure1.exe
+- Skadis-Curse/x64/Debug/text-adventure1.exe
+
+The source file for this project is:
+- Skadis-Curse/text-adventure1/text-adventure1.cpp
 
 Hope you enjoy, thanks!
