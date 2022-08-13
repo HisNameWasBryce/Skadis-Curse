@@ -1,4 +1,4 @@
-# Sample_Project1
+# Skadi's Curse
 Sample text adventure game showing implementation of loops and input buffer clearing and ignoring.
 
 This repository contains all of the source files for this project. 
